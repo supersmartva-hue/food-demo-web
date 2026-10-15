@@ -10,14 +10,14 @@ npx expo start --web --clear
 
 ## Structure
 
-```
+```text
 assets/images/        Licensed food photography
 src/
   components/         Reusable UI: Header, Button, SectionHeading, MealCard, PricingCard, TestimonialCard, FAQItem
-  sections/           One component per landing page section
-  data/content.js     All copy and repeated card content
-  App.jsx             Page layout: header followed by sections
-index.js              Expo entry point
+  sections/            One component per landing page section
+  data/content.js      All copy and repeated card content
+  App.jsx               Page layout: header followed by sections
+index.js                Expo entry point
 ```
 
 ## Notes
